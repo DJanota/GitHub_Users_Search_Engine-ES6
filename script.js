@@ -43,13 +43,13 @@ class App extends React.Component {
             value = {
                 this.state.searchText
             }
-            /> <
-            /form> <
+            /> < /
+            form > <
             UsersList users = {
                 this.state.users
             }
-            /> <
-            /div>
+            /> < /
+            div >
         );
     }
 }
@@ -85,7 +85,7 @@ class UsersList extends React.Component {
                     }
                     style = {
                         {
-                            maxWidth: '100px'
+                            maxWidth: '50px',
                         }
                     }
                     /> <
@@ -94,8 +94,8 @@ class UsersList extends React.Component {
                     }
                     target = "_blank" > {
                         this.props.user.login
-                    } < /a> <
-                    /div>
+                    } < /a> < /
+                    div >
                 );
             }
         }
