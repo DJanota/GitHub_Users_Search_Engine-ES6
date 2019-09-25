@@ -1,20 +1,20 @@
 {
-  "name": "Zadanie_15_9",
-  "version": "1.0.0",
-  "description": "",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel script.js --watch --out-file build.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-latest": "^6.24.1"
-  },
-  "dependencies": {
-    "babel-preset-react": "^6.24.1"
-  }
+    "name": "GitHub_Users_Search_Engine-ES6",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "babel script.js --watch --out-file build.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-preset-latest": "^6.24.1"
+    },
+    "dependencies": {
+        "babel-preset-react": "^6.24.1"
+    }
 }
