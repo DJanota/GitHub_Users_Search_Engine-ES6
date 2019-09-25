@@ -5,7 +5,7 @@ class App extends React.Component {
             searchText: '',
             users: []
         };
-    }.
+    }
 
     onChangeHandle(event) {
         this.setState({
