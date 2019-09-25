@@ -174,7 +174,7 @@ var User = function (_React$Component3) {
                 React.createElement("img", {
                     src: this.props.user.avatar_url,
                     style: {
-                        maxWidth: '100px'
+                        maxWidth: '50px',
                     }
                 }),
                 React.createElement(
